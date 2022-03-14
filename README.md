@@ -1,6 +1,6 @@
 # bitcoin_ticker_flutter
 
-# The App uses third party api to get the currency value and convert the values in 3 virtual curreny 
+# The App uses third party api to get the currency value and convert the values in 3 virtual currency 
 # Bitcoin
 # Ethereum
 # LiteCoin
